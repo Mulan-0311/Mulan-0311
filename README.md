@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./neha_banner.png" alt="Neha Matre — Full-Stack Developer || AI/ML Engineer" width="100%" />
-</p>
-
-<br/>
+<img width="609" height="98" alt="image" src="https://github.com/user-attachments/assets/41100d00-fc8f-46d9-953b-0c7cad4c881c" />
 
 ```python
 class Neha:
