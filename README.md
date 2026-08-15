@@ -56,7 +56,7 @@ class Stack:
   <img src="https://streak-stats.demolab.com/?user=Mulan-0311&hide_border=true&background=0D0000&ring=FF0000&fire=FF4D4D&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=999999&stroke=330000" />
 </p>
 
-<p align="center"><em>If it's not shipped, it doesn't count.</em></p>
+<p align="center"><em>Build in public, ship in silence, let the repo speak.</em></p>
 
 ---
 
