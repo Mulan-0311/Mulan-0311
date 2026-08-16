@@ -31,10 +31,10 @@ class Stack:
     languages    = ("Python", "TypeScript", "C", "JavaScript")
     full_stack   = ("React", "Vue.js", "Vite", "Node.js", "FastAPI")
     ai_ml        = ("TensorFlow", "PyTorch", "scikit-learn", "NumPy", "Pandas", "Matplotlib", "OpenCV")
-    databases    = ("MySQL", "MongoDB", "Neo4j", "Supabase")
+    databases    = ("MySQL", "MongoDB", "Supabase")
     cloud        = ("Azure", "Netlify", "Vercel", "Render")
     design_tools = ("Figma", "Canva", "Dribbble")
-    dev_tools    = ("GitHub", "GitLab", "Jest", "Vitest", "Testing Library", "Docker", "Notion")
+    dev_tools    = ("GitHub", "GitLab", "Docker", "Notion")
 ```
 
 ---
