@@ -16,8 +16,7 @@ class Neha:
         self.building   = "Scalable AI systems and intelligent applications"
         self.learning   = "Generative AI, OpenAI GPT models & advanced Deep Learning"
         self.collab     = "Machine Learning, Deep Learning & Generative AI projects"
-        self.fun_fact   = "MUN Delegate for Poland · Organized TECHNOPHILIA 2026"
-
+        
     def reach(self):
         return "github.com/Mulan-0311"
 ```
